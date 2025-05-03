@@ -1,6 +1,6 @@
-===============================
+---------------------------------
 ## OS Simulation with Crime Data
-===============================
+---------------------------------
 
 This project simulates Operating System (OS) concepts using real-world crime data as a dataset. It covers memory management, CPU scheduling, multithreading, disk I/O benchmarking, and log monitoring, all visualized and executed in Python using Google Colab.
 
